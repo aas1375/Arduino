@@ -1,6 +1,4 @@
 this references are used through these projects
 
 https://www.arduino.cc/reference/en/
-http://www.sanatbazar.com/tech/electronic/item/91
-http://levinic.com/buzzer-circuit-with-arduino/
 http://www.tar-setar.ir/tags/%D8%AF%D9%88%D8%8C%D8%B1%D8%8C%D9%85%D9%8A%D8%8C%D9%81%D8%A7%D8%8C%D8%B3%D9%84%D8%8C%D9%84%D8%A7%D8%8C%D8%B3%D9%8A/
